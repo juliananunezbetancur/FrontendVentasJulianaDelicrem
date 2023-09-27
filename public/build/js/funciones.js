@@ -1,4 +1,5 @@
-const Url = "http://localhost:8081/api/producto";
+//const Url = "http://localhost:8081/api/producto";
+const Url = "https://bmoduloventasdeli.onrender.com/api/producto"
 let id = "";
 
 const Listar = () => {

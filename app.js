@@ -22,7 +22,7 @@ app.set("view engine", "hbs");
 
 app.get("/", (req, res) => {
   res.render("index", {
-    twbs: "The Warrior Barber Shop",
+    twbs: "Deli",
   });
 });
 
